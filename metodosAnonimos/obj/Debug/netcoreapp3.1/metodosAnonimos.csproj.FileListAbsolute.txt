@@ -1,0 +1,14 @@
+C:\Users\luis.pena\Documents\cursos\C#\Semana03\Semana3metodosAnonimos\metodosAnonimos\bin\Debug\netcoreapp3.1\metodosAnonimos.exe
+C:\Users\luis.pena\Documents\cursos\C#\Semana03\Semana3metodosAnonimos\metodosAnonimos\bin\Debug\netcoreapp3.1\metodosAnonimos.deps.json
+C:\Users\luis.pena\Documents\cursos\C#\Semana03\Semana3metodosAnonimos\metodosAnonimos\bin\Debug\netcoreapp3.1\metodosAnonimos.runtimeconfig.json
+C:\Users\luis.pena\Documents\cursos\C#\Semana03\Semana3metodosAnonimos\metodosAnonimos\bin\Debug\netcoreapp3.1\metodosAnonimos.runtimeconfig.dev.json
+C:\Users\luis.pena\Documents\cursos\C#\Semana03\Semana3metodosAnonimos\metodosAnonimos\bin\Debug\netcoreapp3.1\metodosAnonimos.dll
+C:\Users\luis.pena\Documents\cursos\C#\Semana03\Semana3metodosAnonimos\metodosAnonimos\bin\Debug\netcoreapp3.1\metodosAnonimos.pdb
+C:\Users\luis.pena\Documents\cursos\C#\Semana03\Semana3metodosAnonimos\metodosAnonimos\obj\Debug\netcoreapp3.1\metodosAnonimos.csproj.AssemblyReference.cache
+C:\Users\luis.pena\Documents\cursos\C#\Semana03\Semana3metodosAnonimos\metodosAnonimos\obj\Debug\netcoreapp3.1\metodosAnonimos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\luis.pena\Documents\cursos\C#\Semana03\Semana3metodosAnonimos\metodosAnonimos\obj\Debug\netcoreapp3.1\metodosAnonimos.AssemblyInfoInputs.cache
+C:\Users\luis.pena\Documents\cursos\C#\Semana03\Semana3metodosAnonimos\metodosAnonimos\obj\Debug\netcoreapp3.1\metodosAnonimos.AssemblyInfo.cs
+C:\Users\luis.pena\Documents\cursos\C#\Semana03\Semana3metodosAnonimos\metodosAnonimos\obj\Debug\netcoreapp3.1\metodosAnonimos.csproj.CoreCompileInputs.cache
+C:\Users\luis.pena\Documents\cursos\C#\Semana03\Semana3metodosAnonimos\metodosAnonimos\obj\Debug\netcoreapp3.1\metodosAnonimos.dll
+C:\Users\luis.pena\Documents\cursos\C#\Semana03\Semana3metodosAnonimos\metodosAnonimos\obj\Debug\netcoreapp3.1\metodosAnonimos.pdb
+C:\Users\luis.pena\Documents\cursos\C#\Semana03\Semana3metodosAnonimos\metodosAnonimos\obj\Debug\netcoreapp3.1\metodosAnonimos.genruntimeconfig.cache
